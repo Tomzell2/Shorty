@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>h1 {color: rgb(58, 48, 199);}
+        body {background-color: rgb(211, 240, 240);}
+        h2 {color: rgb(245, 76, 152);}
+        .cities {background-color: rgb(148, 244, 247);
+  color: white; padding: 20px;}
+        </style>
+    </head>
+    <body>
+    <style></style>
+        <h1>Travel to ....</h1>
+        <li>Europe is full of great cities to visit. The following is a brief list of a few examples.
+            <li>USA also has many wonderful cities to visit and should also be considered.
+        </li>
+        <h2>France </h2>
+        <p>In France you should visit Chateau of Versailles</p><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/1920px-Chateau_Versailles_Galerie_des_Glaces.jpg" width= "300"><p>France (French: [fʁɑ̃s] (About this soundlisten)), officially the French Republic (French: République française, pronounced [ʁepyblik fʁɑ̃sɛːz] (About this soundlisten)), is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories.[XIII] The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is bordered by Belgium, Luxembourg and Germany to the northeast, Switzerland and Italy to the east, and Andorra and Spain to the south. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans. The country's 18 integral regions (five of which are situated overseas) span a combined area of 643,801 square kilometres (248,573 sq mi) and a total population of 67.02 million (as of July 2019).[10] France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice. France, including its overseas territories, has the most number of time zones with total 12 time zones.</p>
+        <h2>Spain</h2>
+        <p> In Spain you should visit theBasilica of San Isidoro, León</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Leon_%28San_Isidoro%2C_pante%C3%B3n%29.jpg/220px-Leon_%28San_Isidoro%2C_pante%C3%B3n%29.jpg" width= "300">
+        <p>Spain (Spanish: España [esˈpaɲa] (About this soundlisten)), officially the Kingdom of Spain[11] (Spanish: Reino de España),[a][b] is a European country located in Southwestern Europe with some pockets of Spanish territory across the Strait of Gibraltar and the Atlantic Ocean.[11] Its continental European territory is situated on the Iberian Peninsula. Its territory also includes two archipelagoes: the Canary Islands off the coast of Africa, and the Balearic Islands in the Mediterranean Sea. The African enclaves of Ceuta, Melilla, and Peñón de Vélez de la Gomera[12] make Spain the only European country to have a physical border with an African country (Morocco).[h] Several small islands in the Alboran Sea are also part of Spanish territory. The country's mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean.</p>
+        
+        <div class="cities">
+        <li>Germany<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dresden_Germany_Exterior-of-Frauenkirche-05.jpg/130px-Dresden_Germany_Exterior-of-Frauenkirche-05.jpg">
+        <li>England
+        <li>Austria
+      </li>
+      </div>
+    </body>
+    
+</html>
